@@ -1,0 +1,1 @@
+{"hyper": {"model_type": "facebook/bart_base", "adapter_name": "facebook/bart_basedebiased_bartscore", "lr": 0.001, "warmup": 0.0, "batch_size": 32, "n_epochs": 4, "seed": 42, "device": "cuda", "logging_steps": 100, "bart_batch_size": 8, "max_length": 1024, "data_path": "bartBase.tsv", "all_layers": false, "lang": "en", "verbose": false}}
