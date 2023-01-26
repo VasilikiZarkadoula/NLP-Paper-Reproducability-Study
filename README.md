@@ -3,6 +3,7 @@ Assignment for Natural Language Processing course at Aristotle University of The
 Reproducability study on paper:
 BERTScore is Unfair: On Social Bias in Language Model-Based Metrics for Text Generation
 
+This repository does not include the code of the 
 Author's repository https://github.com/txsun1997/metric-fairness
 
 @inproceedings{sun2022bertscore,
@@ -11,3 +12,5 @@ Author's repository https://github.com/txsun1997/metric-fairness
   booktitle = {Proceedings of {EMNLP}},
   year={2022}
 }
+
+
