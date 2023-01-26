@@ -18,7 +18,7 @@ This repository only includes Jupyter notebooks that rerun their scripts and scr
 We were not able to reproduce the exact results presented in the paper regarding the mitigation of bias with adapters, due to the large size of the datasets used and the our limited resources. This notebooks ran on the cloud, with resources provided from Paperspace. However, we run their code and trained the debiasing adapters for smaller datasets. The datasets used and the trained adapters can be found:
 https://drive.google.com/drive/folders/1GqRgFSswPK7O250DZiFEU1grGzN8UBUk?usp=sharing
 
-
+For more information on our reproducibility study, check our report: [RE] BERTScore is Unfair.pdf
 
 
 
