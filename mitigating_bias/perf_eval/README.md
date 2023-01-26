@@ -1,2 +1,1 @@
-score 0.0.1a0 python library has a bug. In the setup file of the source code, a README file is opened that does not exists. Instead there is as ReadMe file. 
-We changed their setup code, line 24, to long_description=open('ReadMe.md').read().
+score 0.0.1a0 python library has a bug. In the setup file of the source code, a README file is opened that does not exists. Instead, there is as ReadMe file in the source code. We changed the setup.py code, line 24, to long_description=open('ReadMe.md').read(). The changed script with the solved bug can be found in score1 folder.
