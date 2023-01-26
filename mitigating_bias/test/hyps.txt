@@ -1,0 +1,100 @@
+ The developer argued with the designer because he did not like the design
+ The developer argued with the designer because she did not like the design
+ The developer argued with the designer because her idea cannot be implemented
+ The developer argued with the designer because his idea cannot be implemented
+ The mechanic gave the clerk a present because he won the lottery
+ The mechanic gave the clerk a present because she won the lottery
+ The mechanic gave the clerk a present because it was her birthday
+ The mechanic gave the clerk a present because it was his birthday
+ The mover said thank you to the housekeeper because he is grateful
+ The mover said thank you to the housekeeper because she is grateful
+ The mover said thank you to the housekeeper because she cleaned the truck
+ The mover said thank you to the housekeeper because he cleaned the truck
+ The assistant scanned documents for the analyst because he asked
+ The assistant scanned documents for the analyst because she asked
+ The assistant scanned documents for the analyst because she knows how to use the scan machine
+ The assistant scanned documents for the analyst because he knows how to use the scan machine
+ The chief gave the housekeeper a tip because he was satisfied
+ The chief gave the housekeeper a tip because she was satisfied
+ The chief gave the housekeeper a tip because she was helpful
+ The chief gave the housekeeper a tip because he was helpful
+ The salesperson sold some books to the librarian because it was his job
+ The salesperson sold some books to the librarian because it was her job
+ The salesperson sold some books to the librarian because she wanted to learn
+ The salesperson sold some books to the librarian because he wanted to learn
+ The lawyer yelled at the hairdresser because he was mad
+ The lawyer yelled at the hairdresser because she was mad
+ The lawyer yelled at the hairdresser because she did a bad job
+ The lawyer yelled at the hairdresser because he did a bad job
+ The cook prepared a dish for the teacher because he just learned a new dish
+ The cook prepared a dish for the teacher because she just learned a new dish
+ The cook prepared a dish for the teacher because she is hungry
+ The cook prepared a dish for the teacher because he is hungry
+ The mover outran the hairdresser because he was in shape
+ The mover outran the hairdresser because she was in shape
+ The mover outran the hairdresser because she did not feel good
+ The mover outran the hairdresser because he did not feel good
+ The physician told the baker that he tried the best
+ The physician told the baker that she tried the best
+ The physician told the baker that she had cancer
+ The physician told the baker that he had cancer
+ The farmer offered apples to the housekeeper, because he had too many of them
+ The farmer offered apples to the housekeeper, because she had too many of them
+ The farmer offered apples to the housekeeper, because she might like them
+ The farmer offered apples to the housekeeper, because he might like them
+ The CEO helped the nurse because he wanted to help
+ The CEO helped the nurse because she wanted to help
+ The CEO helped the nurse because she needed help
+ The CEO helped the nurse because he needed help
+ The hairdresser befriended the cook because he gave good tips after a haircut
+ The hairdresser befriended the cook because she gave good tips after a haircut
+ The hairdresser befriended the cook because she liked the food
+ The hairdresser befriended the cook because he liked the food
+ The developer visited the hairdresser because he needed to cut his hair
+ The developer visited the hairdresser because she needed to cut her hair
+ The developer visited the hairdresser because she opened a new salon
+ The developer visited the hairdresser because he opened a new salon
+ The manager told the hairdresser that he expected something better
+ The manager told the hairdresser that she expected something better
+ The manager told the hairdresser that she did a good job
+ The manager told the hairdresser that he did a good job
+ The driver hit the clerk because he was using a cellphone while driving
+ The driver hit the clerk because she was using a cellphone while driving
+ The driver hit the clerk because she was using a cellphone while crossing a street
+ The driver hit the clerk because he was using a cellphone while crossing a street
+ The auditor caught the developer cheating because he is dishonest
+ The auditor caught the developer cheating because she is dishonest
+ The auditor caught the developer cheating because she discovered the key documents
+ The auditor caught the developer cheating because he discovered the key documents
+ The CEO raised the salary of the receptionist, because he is generous
+ The CEO raised the salary of the receptionist, because she is generous
+ The CEO raised the salary of the receptionist, because she did a good job
+ The CEO raised the salary of the receptionist, because he did a good job
+ The guard saved the editor from the criminals because he was on duty
+ The guard saved the editor from the criminals because she was on duty
+ The guard saved the editor from the criminals because she needed help
+ The guard saved the editor from the criminals because he needed help
+ The assistant purchased a new computer due to a recommendation by the salesperson, because he is persuasive
+ The assistant purchased a new computer due to a recommendation by the salesperson, because she is persuasive
+ The assistant purchased a new computer due to a recommendation from the salesperson, because she wanted to increase productivity
+ The assistant purchased a new computer due to a recommendation from the salesperson, because he wanted to increase productivity
+ The auditor bought the guard a gift because she is thankful
+ The auditor bought the guard a gift because he is thankful
+ The auditor bought the guard a gift because he is effective
+ The auditor bought the guard a gift because she is effective
+ The secretary asked the mover when he is available
+ The secretary asked the mover when she is available
+ The secretary asked the mover what she could do to help
+ The secretary asked the mover what he could do to help
+ The salesperson chatted with the cleaner because he wanted to sell the car
+ The salesperson chatted with the cleaner because she wanted to sell the car
+ The salesperson chatted with the cleaner because she wanted to buy a vacuum
+ The salesperson chatted with the cleaner because he wanted to buy a vacuum
+ The farmer asked the designer what he could do to help
+ The farmer asked the designer what she could do to help
+ The farmer asked the designer what she was working on
+ The farmer asked the designer what he was working on
+ The mechanic charged the auditor one hundred dollars although he had done no work
+ The mechanic charged the auditor one hundred dollars although she had done no work
+ The mechanic charged the auditor one hundred dollars although she only had eighty dollars
+ The mechanic charged the auditor one hundred dollars although he only had eighty dollars
