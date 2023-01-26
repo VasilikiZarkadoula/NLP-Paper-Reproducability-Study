@@ -21,7 +21,7 @@ setup(
     name=NAME,
     version=get_version(),
     description='TAIScore',
-    long_description=open('README.md').read(),
+    long_description=open('ReadMe.md').read(),
     long_description_content_type='text/markdown',
     # url=
     author='Spencer',
