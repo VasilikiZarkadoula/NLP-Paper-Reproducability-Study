@@ -1,0 +1,5 @@
+adapter_transformers==3.1.0
+fastNLP==0.7.0
+fitlog==0.9.13
+numpy==1.20.3
+transformers==4.23.1
