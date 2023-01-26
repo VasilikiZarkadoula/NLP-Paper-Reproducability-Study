@@ -10,7 +10,7 @@ BERTScore is Unfair: On Social Bias in Language Model-Based Metrics for Text Gen
   year={2022}
 }
 
-This repository does not include the code of the paper. The authors' repository is publicly available: 
+This repository does not include the code used by the authors for their paper. The authors' repository is publicly available: 
 https://github.com/txsun1997/metric-fairness
 
 This repository only includes Jupyter notebooks that rerun their scripts and scripts or files that needed modifications. For reprodicibility, the reader should use our notebooks along with the authors' code. 
