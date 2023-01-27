@@ -5,5 +5,7 @@ Run the notebooks after placing them in the parth: /mitigating_bias/performance_
 In order to run perfomance evaluation without adapter, you can follow the steps:
 
   -for BART score comment out in file eval_bart_score.py : self.model.load_adapter(adapter_path,set_active=True)
+  
   -for BLEURT score comment out in file  eval_bleurt.py : self.model.load_adapter(adapter_path,set_active=True)
+  
   -for BERT score comment out in file scorer.py : self._model.load_adapter(adapter_path,set_active=True)
