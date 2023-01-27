@@ -2,7 +2,7 @@ score 0.0.1a0 python library has a bug. In the setup file of the source code, a 
 
 Run the notebooks after placing them in the parth: /mitigating_bias/performance_eval/WMT/ of authors' repo and use our requirements.txt. Our trained adapters can be found in the provided drive link.
 
-In order to run perfomance evaluation without adapter, you can follow the steps:
+In order to run perfomance evaluation without using adapters, you can follow the steps:
 
   -for BART score comment out in file eval_bart_score.py : self.model.load_adapter(adapter_path,set_active=True)
   
